@@ -1,0 +1,2 @@
+# PracaGit
+opis Repo
